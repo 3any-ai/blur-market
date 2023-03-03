@@ -31,6 +31,7 @@ blur , nft, exchange, point
 
 自动代表机器人根据下方填写的的规则，去获取比较热门的NFT合集，自动去bid
 机器人根据最近15分钟交易量排序，选取地板价 、日交易量、周交易量，选取 5个集合
+
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/72929028/222715283-67e0e0fc-434a-41ad-9383-9c8326ffd829.png">
 
 
@@ -38,7 +39,9 @@ blur , nft, exchange, point
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/72929028/222715371-6eb74f12-50a1-48bc-8579-e8076a0e06cc.png">
 
 如果这个扩展对你有帮助，请随意捐赠，你的捐赠是我继续优化的动力。后续还会继续更新更多功能和工具
+
 ETH捐赠地址: 0x13BdC9A8cc0cE69337221F9B7d63c07b54999D9D
+
 USDT捐赠地址：0x13BdC9A8cc0cE69337221F9B7d63c07b54999D9D
 
 
