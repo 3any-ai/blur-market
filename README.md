@@ -1,7 +1,7 @@
 # blur-market
 blur , nft, exchange, point
 
-第一步：下载chrome 插件   https://github.com/3any-ai/blur-market/blob/main/blur.zip?raw=true
+第一步：下载chrome 插件   https://github.com/3any-ai/blur-market/blob/main/blur.0.0.1.zip?raw=true
 
 第二步：解压文件 blur.zip
 
