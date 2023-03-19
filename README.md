@@ -1,7 +1,13 @@
 # blur-market
 blur , nft, exchange, point
 
-第一步：下载chrome 插件   https://github.com/3any-ai/blur-market/blob/main/blur.0.0.2.zip?raw=true
+#新增特性
+- 批量砸盘
+- 监控偷撸
+- 跟随bid
+
+
+第一步：下载chrome 插件   https://github.com/3any-ai/blur-market/blob/main/chrome-mv3-prod.zip?raw=true
 
 第二步：解压文件 blur.zip
 
